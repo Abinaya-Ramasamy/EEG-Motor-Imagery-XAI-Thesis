@@ -1,0 +1,1 @@
+Spatial domain models.
